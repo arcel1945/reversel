@@ -16,10 +16,10 @@ This Python script allows you to input an IP address and retrieve the associated
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/your-repository.git
+    git clone https://github.com/arcel1945/reversel
 2. Navigate into the directory:
    ```bash
-   cd your-repository
+   cd reversel
 3. Install the libraries:
    ```bash
    pip install -r requirements.txt
